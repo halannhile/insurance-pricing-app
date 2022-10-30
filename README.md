@@ -6,7 +6,9 @@ https://nhi-hl-le.shinyapps.io/InsurancePricingApp/
 
 ## Demonstration of Use: 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/765365315/c115fadc66)
+
+https://user-images.githubusercontent.com/55796146/198866100-0e37bf59-161c-476e-bc90-f3693552d1aa.mp4
+
 
 ## Features
 

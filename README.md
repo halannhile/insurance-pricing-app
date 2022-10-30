@@ -4,8 +4,11 @@
 
 https://nhi-hl-le.shinyapps.io/InsurancePricingApp/ 
 
-## Demonstration of Use: 
+## Link to Report
 
+https://drive.google.com/file/d/1uwDkA5Mn8w7HIl4Jr52PbIg3q80Ez71a/view
+
+## Demonstration of Use
 
 https://user-images.githubusercontent.com/55796146/198866100-0e37bf59-161c-476e-bc90-f3693552d1aa.mp4
 

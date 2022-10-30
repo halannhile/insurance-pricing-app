@@ -8,6 +8,16 @@ https://nhi-hl-le.shinyapps.io/InsurancePricingApp/
 
 https://drive.google.com/file/d/1uwDkA5Mn8w7HIl4Jr52PbIg3q80Ez71a/view
 
+## Introduction
+
+The pricing and reserving tool allows the user to view the gross premium and reserves revolution for different insurance products, applicable to different groups of policy holders:
+
+![image](https://user-images.githubusercontent.com/55796146/198866226-ce500da3-cebc-42af-b97e-331a59448eab.png)
+
+Within each product, apart from choosing the age of the policyholder(s) and which group (X/Y) they belong to, the user can also specify the following parameters:
+
+![image](https://user-images.githubusercontent.com/55796146/198866237-b28203bf-651e-45b2-9111-78882e14bc89.png)
+
 ## Demonstration of Use
 
 https://user-images.githubusercontent.com/55796146/198866100-0e37bf59-161c-476e-bc90-f3693552d1aa.mp4

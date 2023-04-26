@@ -1,21 +1,21 @@
 # Insurance Pricing & Reserve Calculation App
 
-## App Interface
+## App Interface: 
 ![Screenshot 2023-03-10 111145](https://user-images.githubusercontent.com/55796146/224190116-c7b9d504-e1a3-404d-ab70-06a977fc8a17.png)
 
-## Link to App 
+## Link to App: 
 
 https://nhi-hl-le.shinyapps.io/InsurancePricingApp/ 
 
-## Link to Report
+## Link to Report: 
 
 https://drive.google.com/file/d/1uwDkA5Mn8w7HIl4Jr52PbIg3q80Ez71a/view
 
-## Code of App 
+## Code:
 
 https://github.com/halannhile/insurance-pricing-app/blob/main/app.R
 
-## Description
+## Description:
 
 The pricing and reserving tool allows the user to view the gross premium and reserves revolution for different insurance products, applicable to different groups of policy holders:
 
@@ -25,7 +25,7 @@ Within each product, apart from choosing the age of the policyholder(s) and whic
 
 ![image](https://user-images.githubusercontent.com/55796146/198866237-b28203bf-651e-45b2-9111-78882e14bc89.png)
 
-## Demonstration of Use
+## App Demo
 
 https://user-images.githubusercontent.com/55796146/198866100-0e37bf59-161c-476e-bc90-f3693552d1aa.mp4
 

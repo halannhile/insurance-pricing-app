@@ -58,7 +58,7 @@ Single life assurances include:
 3. Endowment assurance
 4. Whole life assurance
 
-## Joint products
+## Joint products:
 
 Joint life annuities include:
 

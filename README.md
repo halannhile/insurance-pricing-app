@@ -44,7 +44,7 @@ Within each group, you can first specify the policyholder age and their group (o
 
 The tool will then display the gross premium amount, as well as an evolution plot for the prospective reserves, for which you can choose to compare the reserves against the remaining group (only applicable to single life products).
 
-## Single products
+## Single products:
 
 Single life annuities include:
 

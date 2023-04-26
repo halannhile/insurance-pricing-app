@@ -11,11 +11,11 @@ https://nhi-hl-le.shinyapps.io/InsurancePricingApp/
 
 https://drive.google.com/file/d/1uwDkA5Mn8w7HIl4Jr52PbIg3q80Ez71a/view
 
-## Code 
+## Code of App 
 
 https://github.com/halannhile/insurance-pricing-app/blob/main/app.R
 
-## Introduction
+## Description
 
 The pricing and reserving tool allows the user to view the gross premium and reserves revolution for different insurance products, applicable to different groups of policy holders:
 

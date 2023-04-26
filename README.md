@@ -25,12 +25,12 @@ Within each product, apart from choosing the age of the policyholder(s) and whic
 
 ![image](https://user-images.githubusercontent.com/55796146/198866237-b28203bf-651e-45b2-9111-78882e14bc89.png)
 
-## App Demo
+## App Demo:
 
 https://user-images.githubusercontent.com/55796146/198866100-0e37bf59-161c-476e-bc90-f3693552d1aa.mp4
 
 
-## Features
+## Features:
 
 The tool supports two types of insurance policies:
 
